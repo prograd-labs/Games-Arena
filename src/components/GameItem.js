@@ -1,5 +1,5 @@
 /**
- * Created by manish on 21/1/18.
+ * Created by Kannan
  */
 import React, {Component} from 'react';
 import {Card, CardHeader, CardText} from 'material-ui/Card';
